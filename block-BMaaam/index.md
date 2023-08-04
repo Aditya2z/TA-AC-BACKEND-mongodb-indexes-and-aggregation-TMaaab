@@ -64,6 +64,7 @@ green -> 123
 26. Find all apple loving blue eyed female working in 'USA'. Sort them by their registration date in descending order.
 
 27. Find all 18+ inactive men and return only the fields specified below in the below provided format
+done
 
 ```js
 {
